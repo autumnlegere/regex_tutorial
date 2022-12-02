@@ -119,3 +119,27 @@ You are required to submit the following for review:
 ---
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+Credits:
+https://learn.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions
+quantifiers
+
+https://github.com/ziishaned/learn-regex
+anchors
+
+https://www.regular-expressions.info/brackets.html#:~:text=Use%20Parentheses%20for%20Grouping%20and,to%20part%20of%20the%20regex.
+parentheses
+
+https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html#:~:text=In%20regex%2C%20the%20uppercase%20metacharacter,%5CD%20or%20non%2Ddigit.
+\w
+
+https://www.regular-expressions.info/charclass.html
+character classes
+
+https://plainenglish.io/blog/regular-expressions-brackets-f2d6f69ffe13
+square brackets
+
+https://www.jmp.com/support/help/zh/15.2/index.shtml#page/jmp/escaped-characters-in-regular-expressions.shtml
+escaped characters
+
+
